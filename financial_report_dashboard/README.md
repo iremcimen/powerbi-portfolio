@@ -22,6 +22,8 @@ Etkileşimli filtreler ile aşağıdaki kırılımlarda analiz yapılabilmektedi
 - Tarih aralığı
 - İş segmenti
 
+Dashboard’un PDF önizleme çıktısı:
+[Dashboard PDF Önizleme](dashboard_preview.pdf)
 ---
 
 ## 📌 Analiz Bulguları
