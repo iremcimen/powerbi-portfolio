@@ -9,12 +9,12 @@
 Dashboard, finansal performansa dair üst düzey bir özet sunmaktadır. İçerdiği başlıca metrikler:
 
 - **Toplam Satış**
-- **Toplam Kâr**
-- **Kâr Marjı (%)**
+- **Toplam Kar**
+- **Kar Marjı (%)**
 - **Toplam Satılan Adet**
-- Zamana göre kâr trendi (Yıl / Ay)
+- Zamana göre kar trendi (Yıl / Ay)
 - Ürüne göre satış dağılımı
-- Ülke ve bölge bazında kâr analizi
+- Ülke ve bölge bazında kar analizi
 - Segment bazlı performans karşılaştırması
 
 Etkileşimli filtreler ile aşağıdaki kırılımlarda analiz yapılabilmektedir:
@@ -28,10 +28,10 @@ Dashboard’un PDF önizleme çıktısı:
 
 ## 📌 Analiz Bulguları
 
-- Toplam satışlar **103M** seviyesine ulaşmış, **14.8M** toplam kâr elde edilmiş ve genel **kâr marjı %14.3** olarak hesaplanmıştır.
+- Toplam satışlar **103M** seviyesine ulaşmış, **14.8M** toplam kar elde edilmiş ve genel **kar marjı %14.3** olarak hesaplanmıştır.
 - 2013 sonundan 2014 ortasına kadar kârda **istikrarlı bir artış trendi** gözlenmekte olup operasyonel performansta iyileşmeye işaret etmektedir.
 - **Paseo**, toplam satış hacmi açısından en yüksek performansa sahip üründür.
-- **Amerika Birleşik Devletleri, Almanya ve Fransa**, en yüksek kâr elde edilen ülkeler olarak öne çıkmaktadır.
+- **Amerika Birleşik Devletleri, Almanya ve Fransa**, en yüksek kar elde edilen ülkeler olarak öne çıkmaktadır.
 - **Enterprise** segmenti, toplam kârın en büyük payını oluşturmaktadır.
 
 ---
