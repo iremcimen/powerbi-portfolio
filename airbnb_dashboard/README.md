@@ -16,7 +16,7 @@ Dashboard’ta aşağıdaki temel KPI’lar yer almaktadır:
 - **Toplam Yorum Sayısı**
 - **Ortalama Minimum Gece**
 
-Dashboard’un PDF önizleme çıktısı:
+Dashboard’un PDF önizleme çıktısı :
 [Dashboard PDF Önizleme](dashboard_preview.pdf)
 ---
 
